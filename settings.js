@@ -12,27 +12,27 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "GitHub: Linkiddrak" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V14' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.botname = 'Darki Bot MD V14' //ur bot name
+global.ownernumber = '22871255034' //ur owner number
+global.ownername = 'Raizen Linkid' //ur owner name
 global.websitex = "https://youtu.be/RT0-AMBVwJg"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
+global.themeemoji = '❄️'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD14' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "❄️Raizen"
+global.creator = "22871255034@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["22871255034"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v12' // menu type 'v1' => 'v12'
+global.typemenu = 'v1' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
